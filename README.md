@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Apenas estoy aprendiendo a programar. Tengo un par de proyectos en mente, pero nada realmente interesante todavía. Espero poder contribuir en esta plataforma a medida que aprendo más y más cosas.
+
+Actualmente estoy trabajando con JavaScript y HTML. De momento no me siento preparado para estar en un proyecto, pero me gustaría participar en alguno algún día.
+
+```js
+console.log('Hola, mundo :D');
+```
