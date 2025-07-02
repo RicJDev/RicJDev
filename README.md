@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Apenas estoy aprendiendo a programar. Tengo un par de proyectos en mente, pero nada realmente interesante todavía. Espero poder contribuir en esta plataforma a medida que aprendo más y más cosas.
 
-Actualmente estoy trabajando con JavaScript y HTML. De momento no estoy preparado para colaborar en un proyecto, pero me gustaría participar en alguno algún día.
+Bienvenido a mi GitHub. Ahorita no hay mucho que ver, solo un par de proyectos y mi config de NeoVim (favor de no robarla, aunque no importa si lo haces).
 
+Acá dejo un JavaScript salvaje:
 ```js
 console.log('Hola, GitHub 😁');
 ```
